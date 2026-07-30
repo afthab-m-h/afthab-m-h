@@ -9,13 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/afthab1001">
-    <img src="https://img.shields.io/badge/LINKEDIN-9B0028?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:afthab.m.h2004@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-C70039?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+<a href="https://linkedin.com/in/afthab1001"><img src="https://img.shields.io/badge/LINKEDIN-9B0028?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="mailto:afthab.m.h2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-C70039?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
