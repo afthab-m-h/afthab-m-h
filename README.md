@@ -125,7 +125,7 @@ Worked on applied data science and AI development involving:
 
 ---
 
-## 🔬 Areas of Interest
+## 🔬 Areas of Interest 
 
 `Machine Learning` `Data Science` `LLMs` `Agentic AI` `Data Engineering` `Analytics` `FinTech Analytics` `3D Data`
 
