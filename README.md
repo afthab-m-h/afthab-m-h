@@ -139,6 +139,8 @@ Worked on applied data science and AI development involving:
 
 ---
 
+<br>
+
 <p align="center">
-  <i>Building at the intersection of data, statistics and intelligent systems.</i>
+  <img src="assets/footer.svg" width="100%" alt="Footer">
 </p>
