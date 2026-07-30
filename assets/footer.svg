@@ -1,0 +1,44 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="rubyFooter" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#08090b"/>
+      <stop offset="30%" stop-color="#650012"/>
+      <stop offset="50%" stop-color="#b00028"/>
+      <stop offset="70%" stop-color="#650012"/>
+      <stop offset="100%" stop-color="#08090b"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dark base -->
+  <rect width="1200" height="120" rx="8" fill="#08090b"/>
+
+  <!-- Ruby angular center -->
+  <polygon points="0,85 250,60 390,78 600,35 810,78 950,60 1200,85 1200,120 0,120"
+           fill="url(#rubyFooter)"/>
+
+  <!-- Sharp black cuts -->
+  <polygon points="0,45 240,70 115,88 0,75"
+           fill="#020304"/>
+
+  <polygon points="1200,45 960,70 1085,88 1200,75"
+           fill="#020304"/>
+
+  <!-- Ruby highlight -->
+  <polyline points="0,84 250,59 390,77 600,34 810,77 950,59 1200,84"
+            fill="none"
+            stroke="#ff1744"
+            stroke-width="2"
+            opacity="0.75"/>
+
+  <text x="600" y="100"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="15"
+        letter-spacing="2">
+    DATA • STATISTICS • ENGINEERING • INTELLIGENCE
+  </text>
+
+</svg>
