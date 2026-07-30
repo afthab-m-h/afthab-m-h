@@ -1,0 +1,93 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Deep ruby base -->
+    <linearGradient id="ruby" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#220006"/>
+      <stop offset="25%" stop-color="#700014"/>
+      <stop offset="52%" stop-color="#c4002f"/>
+      <stop offset="75%" stop-color="#790016"/>
+      <stop offset="100%" stop-color="#190004"/>
+    </linearGradient>
+
+    <!-- Gloss -->
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.30"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Text glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Ruby background -->
+  <rect width="1200" height="240" rx="10" fill="url(#ruby)"/>
+
+  <!-- Black angular shards - left -->
+  <polygon points="0,0 245,0 145,72 310,105 120,130 230,190 0,155"
+           fill="#08090b" opacity="0.96"/>
+
+  <polygon points="0,170 175,145 115,205 330,240 0,240"
+           fill="#020304"/>
+
+  <polygon points="0,40 110,65 55,100 185,120 0,135"
+           fill="#151518" opacity="0.9"/>
+
+  <!-- Black angular shards - right -->
+  <polygon points="1200,0 955,0 1055,72 890,105 1080,130 970,190 1200,155"
+           fill="#08090b" opacity="0.96"/>
+
+  <polygon points="1200,170 1025,145 1085,205 870,240 1200,240"
+           fill="#020304"/>
+
+  <polygon points="1200,40 1090,65 1145,100 1015,120 1200,135"
+           fill="#151518" opacity="0.9"/>
+
+  <!-- Thin ruby shard highlights -->
+  <polygon points="0,158 230,126 130,143 0,178"
+           fill="#ff1744" opacity="0.55"/>
+
+  <polygon points="1200,158 970,126 1070,143 1200,178"
+           fill="#ff1744" opacity="0.55"/>
+
+  <!-- Glass reflection -->
+  <path d="M250 0 H950 L850 82
+           C700 55 500 55 350 82 Z"
+        fill="url(#gloss)" opacity="0.65"/>
+
+  <!-- Main title -->
+  <text x="600" y="105"
+        text-anchor="middle"
+        fill="#ffffff"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="52"
+        font-weight="700"
+        letter-spacing="1"
+        filter="url(#glow)">
+    Afthab Muhammed H
+  </text>
+
+  <!-- Ruby divider -->
+  <rect x="475" y="125" width="250" height="2"
+        rx="1" fill="#ff1744"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="165"
+        text-anchor="middle"
+        fill="#f4f4f4"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="21"
+        font-weight="500"
+        letter-spacing="1">
+    DATA SCIENCE • AI/ML • DATA ANALYTICS • DATA ENGINEERING
+  </text>
+
+</svg>
