@@ -59,66 +59,60 @@ My work spans **machine learning, statistical analysis, data engineering, AI, an
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Projects
 
 ### 🛰️ PointGuard — AI Point Cloud Quality & Anomaly Detection
+End-to-end platform for assessing **3D point-cloud quality**, detecting noise and spatial anomalies, and visualizing results interactively.
 
-An end-to-end platform for assessing the quality of **3D point-cloud datasets** and identifying spatial anomalies.
-
-- Processes LAS, LAZ, PLY and PCD point clouds
-- Statistical noise detection using nearest-neighbour analysis
-- ML-based anomaly detection
-- Interactive 3D point-cloud visualization
-- Spatial density and elevation profiling
-- Automated quality assessment and cleaned point-cloud export
-
-**Tech:** Python • FastAPI • NumPy • Scikit-learn • Three.js • Machine Learning
+`Python` `FastAPI` `Scikit-learn` `NumPy` `Three.js` `Anomaly Detection`
 
 ---
 
-### 📈 Large-Scale Market Surveillance System
+### 📈 Large-Scale Market Fraud Surveillance System
+Scalable market surveillance pipeline using **Binance market data and PySpark** to process large datasets and identify suspicious trading patterns.
 
-A data pipeline for analysing cryptocurrency market data and identifying potentially suspicious trading behaviour.
-
-- Collected market data using the Binance API
-- Built ETL and analytical workflows using PySpark
-- Cleaned, transformed and aggregated large market datasets
-- Stored analysis-ready datasets using efficient columnar storage
-- Implemented analytics for identifying unusual trading patterns
-
-**Tech:** Python • PySpark • Binance API • ETL • Parquet • Financial Analytics
-
----
-
-### ❤️ Heart Disease Risk Prediction
-
-Machine-learning system for predicting heart-disease risk from clinical data.
-
-- Data preprocessing and feature engineering
-- Compared multiple classification algorithms
-- Evaluated models using accuracy, precision, recall, F1 and ROC-AUC
-- Built an interactive interface for custom predictions
-
-**Tech:** Python • Pandas • Scikit-learn • XGBoost • Machine Learning
+`Python` `PySpark` `Binance API` `ETL` `Parquet` `Financial Analytics`
 
 ---
 
 ### 🧬 Quantum Dynamic Jellyfish Swarm Optimization
+Hybrid metaheuristic optimization algorithm for **monochromatic image segmentation**, combining quantum-inspired dynamics with Jellyfish Swarm Optimization.
 
-Research-oriented optimization approach for monochromatic image segmentation.
+`Python` `Optimization` `Image Segmentation` `Statistical Testing`
 
-- Developed a hybrid quantum-inspired optimization approach
-- Applied optimization techniques to image segmentation
-- Conducted statistical comparison of algorithm performance
-- Used Friedman and Wilcoxon tests for comparative evaluation
+---
 
-**Focus:** Optimization • Image Segmentation • Statistical Analysis • Research
+### ❤️ Heart Disease Risk Prediction System
+Predictive ML system using clinical data, feature engineering and model evaluation to estimate **heart-disease risk**.
+
+`Python` `XGBoost` `Scikit-learn` `Pandas` `Machine Learning`
+
+---
+
+### 💊 Symptom-Based Drug Recommendation System
+Decision-support system using symptom information to generate drug recommendations through **TF-IDF and machine learning**, with an interactive application.
+
+`Python` `TF-IDF` `Random Forest` `Streamlit` `NLP`
+
+---
+
+### 🕸️ Picture Fuzzy Clustering Models
+Clustering research using **Picture Fuzzy Sets, graph-based methods and NetworkX** for analysing uncertain and relational data.
+
+`Python` `NetworkX` `Clustering` `Graph Analytics` `Fuzzy Logic`
+
+---
+
+### 📝 Domain-Specific Named Entity Recognition
+Custom NER system trained on annotated domain-specific text to automatically identify and extract relevant entities.
+
+`Python` `spaCy` `NLP` `NER` `Machine Learning`
 
 ---
 
 ## 💼 Experience
 
-### Data Science & AI Intern
+### Data Science Intern
 
 Worked on applied data science and AI development involving:
 
