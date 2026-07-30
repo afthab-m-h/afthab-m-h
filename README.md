@@ -85,7 +85,7 @@ Hybrid metaheuristic optimization algorithm for **monochromatic image segmentati
 ### ❤️ Heart Disease Risk Prediction System
 Predictive ML system using clinical data, feature engineering and model evaluation to estimate **heart-disease risk**.
 
-`Python` `XGBoost` `Scikit-learn` `Pandas` `Machine Learning`
+`Python` `XGBoost` `Scikit-learn` `Pandas` `Machine Learning` 
 
 ---
 
