@@ -2,13 +2,19 @@
   <img src="assets/header.svg" width="100%" alt="Afthab Muhammed H">
 </p>
 
+<h3 align="center">Hey there 👋 I'm Afthab</h3>
+
 <p align="center">
-  Integrated M.Sc. Computational Statistics & Data Analytics @ VIT Vellore
+  <i>Integrated M.Sc. Computational Statistics & Data Analytics @ VIT Vellore</i>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/afthab1001">LinkedIn</a> •
-  <a href="mailto:afthab.m.h2004@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/afthab1001">
+    <img src="https://img.shields.io/badge/LINKEDIN-9B0028?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:afthab.m.h2004@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-C70039?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
