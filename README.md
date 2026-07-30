@@ -1,7 +1,5 @@
-<h1 align="center">Afthab Muhammed H</h1>
-
 <p align="center">
-  <b>Data Science • Artificial Intelligence • Data Analytics • Data Engineering</b>
+  <img src="assets/header.svg" width="100%" alt="Afthab Muhammed H">
 </p>
 
 <p align="center">
