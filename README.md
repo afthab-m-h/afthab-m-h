@@ -25,7 +25,7 @@ My work spans **machine learning, statistical analysis, data engineering, AI, an
 - 🧠 Interested in Machine Learning, LLMs, Data Science & Analytics
 - ⚙️ Exploring scalable data engineering and production AI systems
 - 📊 Strong foundation in statistics, analytical modelling, and data processing
-- 🎓 Integrated M.Sc. Computational Statistics & Data Analytics — VIT Vellore
+- 🎓 Integrated M.Sc. Computational Statistics & Data Analytics —> VIT Vellore
 
 ---
 
